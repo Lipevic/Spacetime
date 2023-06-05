@@ -319,12 +319,12 @@ self.__RSC_MANIFEST={
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "C:\\www\\nlw\\Aula_2\\web\\src\\app\\layout": [
+    "C:\\www\\nlw\\web\\src\\app\\layout": [
       "static/css/app/layout.css"
     ]
   },
   "clientModules": {
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\app-router.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -332,7 +332,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "*",
       "chunks": [
@@ -340,7 +340,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -348,7 +348,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "",
       "chunks": [
@@ -356,7 +356,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -364,7 +364,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "default",
       "chunks": [
@@ -372,15 +372,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
-      "name": "getServerActionDispatcher",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\app-router.js#getServerActionDispatcher": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "getServerActionDispatcher",
       "chunks": [
@@ -388,7 +380,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#getServerActionDispatcher": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
+      "name": "getServerActionDispatcher",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -396,7 +396,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\app-router.js#urlToUrlWithoutFlightMarker": {
       "id": "(app-client)/./node_modules/next/dist/client/components/app-router.js",
       "name": "urlToUrlWithoutFlightMarker",
       "chunks": [
@@ -404,7 +404,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -412,7 +412,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "*",
       "chunks": [
@@ -420,7 +420,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -428,7 +428,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "",
       "chunks": [
@@ -436,7 +436,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -444,7 +444,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "default",
       "chunks": [
@@ -452,15 +452,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
-      "name": "ErrorBoundaryHandler",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundaryHandler",
       "chunks": [
@@ -468,7 +460,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundaryHandler": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
+      "name": "ErrorBoundaryHandler",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -476,7 +476,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\error-boundary.js#ErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/error-boundary.js",
       "name": "ErrorBoundary",
       "chunks": [
@@ -484,7 +484,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -492,7 +492,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "*",
       "chunks": [
@@ -500,7 +500,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -508,7 +508,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "",
       "chunks": [
@@ -516,7 +516,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -524,7 +524,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "default",
       "chunks": [
@@ -532,15 +532,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
-      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
-      "name": "RedirectErrorBoundary",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectErrorBoundary",
       "chunks": [
@@ -548,7 +540,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectErrorBoundary": {
+      "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
+      "name": "RedirectErrorBoundary",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -556,7 +556,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\redirect-boundary.js#RedirectBoundary": {
       "id": "(app-client)/./node_modules/next/dist/client/components/redirect-boundary.js",
       "name": "RedirectBoundary",
       "chunks": [
@@ -564,7 +564,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -572,7 +572,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "*",
       "chunks": [
@@ -580,7 +580,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -588,7 +588,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "",
       "chunks": [
@@ -596,7 +596,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -604,7 +604,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\router-reducer\\fetch-server-response.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/router-reducer/fetch-server-response.js",
       "name": "default",
       "chunks": [
@@ -612,7 +612,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -620,7 +620,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "*",
       "chunks": [
@@ -628,7 +628,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -636,7 +636,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "",
       "chunks": [
@@ -644,7 +644,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -652,7 +652,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#CacheStates": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "CacheStates",
       "chunks": [
@@ -660,7 +660,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -668,7 +668,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#AppRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "AppRouterContext",
       "chunks": [
@@ -676,7 +676,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -684,7 +684,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#LayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "LayoutRouterContext",
       "chunks": [
@@ -692,7 +692,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -700,7 +700,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#GlobalLayoutRouterContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "GlobalLayoutRouterContext",
       "chunks": [
@@ -708,7 +708,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -716,7 +716,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\app-router-context.js#TemplateContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/app-router-context.js",
       "name": "TemplateContext",
       "chunks": [
@@ -724,7 +724,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -732,7 +732,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "*",
       "chunks": [
@@ -740,7 +740,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -748,7 +748,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "",
       "chunks": [
@@ -756,15 +756,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
-      "name": "SearchParamsContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "SearchParamsContext",
       "chunks": [
@@ -772,7 +764,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#SearchParamsContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
+      "name": "SearchParamsContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -780,7 +780,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\hooks-client-context.js#PathnameContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/hooks-client-context.js",
       "name": "PathnameContext",
       "chunks": [
@@ -788,7 +788,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -796,7 +796,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "*",
       "chunks": [
@@ -804,7 +804,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -812,7 +812,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "",
       "chunks": [
@@ -820,15 +820,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
-      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
-      "name": "ServerInsertedHTMLContext",
-      "chunks": [
-        "webpack:static/chunks/webpack.js"
-      ],
-      "async": false
-    },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "ServerInsertedHTMLContext",
       "chunks": [
@@ -836,7 +828,15 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#ServerInsertedHTMLContext": {
+      "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
+      "name": "ServerInsertedHTMLContext",
+      "chunks": [
+        "webpack:static/chunks/webpack.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -844,7 +844,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\server-inserted-html.js#useServerInsertedHTML": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/server-inserted-html.js",
       "name": "useServerInsertedHTML",
       "chunks": [
@@ -852,7 +852,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -860,7 +860,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "*",
       "chunks": [
@@ -868,7 +868,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -876,7 +876,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "",
       "chunks": [
@@ -884,7 +884,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -892,7 +892,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\layout-router.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/layout-router.js",
       "name": "default",
       "chunks": [
@@ -900,7 +900,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -908,7 +908,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "*",
       "chunks": [
@@ -916,7 +916,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -924,7 +924,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "",
       "chunks": [
@@ -932,7 +932,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -940,7 +940,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\render-from-template-context.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/render-from-template-context.js",
       "name": "default",
       "chunks": [
@@ -948,7 +948,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -956,7 +956,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "*",
       "chunks": [
@@ -964,7 +964,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -972,7 +972,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "",
       "chunks": [
@@ -980,7 +980,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -988,7 +988,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\components\\static-generation-searchparams-bailout-provider.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/components/static-generation-searchparams-bailout-provider.js",
       "name": "default",
       "chunks": [
@@ -996,7 +996,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\src\\assets\\nlw-spacetime-logo.svg": {
+    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg": {
       "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
       "name": "*",
       "chunks": [
@@ -1004,7 +1004,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\src\\assets\\nlw-spacetime-logo.svg#": {
+    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg#": {
       "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
       "name": "",
       "chunks": [
@@ -1012,7 +1012,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\src\\assets\\nlw-spacetime-logo.svg#default": {
+    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg#default": {
       "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
       "name": "default",
       "chunks": [
@@ -1020,7 +1020,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\image.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -1028,7 +1028,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\image.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
@@ -1036,7 +1036,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\image.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1044,7 +1044,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\image.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\image.js#": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
@@ -1052,7 +1052,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\client\\image.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1060,7 +1060,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\image.js#default": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
@@ -1068,7 +1068,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\head.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1076,7 +1076,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
@@ -1084,7 +1084,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1092,7 +1092,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
@@ -1100,7 +1100,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1108,7 +1108,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#default": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
@@ -1116,7 +1116,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\shared\\lib\\head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1124,7 +1124,7 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\shared\\lib\\head.js#defaultHead": {
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
@@ -1132,21 +1132,21 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\Aula_2\\web\\src\\app\\globals.css#": {
+    "C:\\www\\nlw\\web\\src\\app\\globals.css#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Bai_Jamjuree\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"700\",\"variable\":\"--font-bai-Jamjuree\"}],\"variableName\":\"baiJamjuree\"}#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Bai_Jamjuree\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"700\",\"variable\":\"--font-bai-Jamjuree\"}],\"variableName\":\"baiJamjuree\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
         "static/css/app/layout.css"
       ]
     },
-    "C:\\www\\nlw\\Aula_2\\web\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Roboto_Flex\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-roboto\"}],\"variableName\":\"roboto\"}#": {
+    "C:\\www\\nlw\\web\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Roboto_Flex\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-roboto\"}],\"variableName\":\"roboto\"}#": {
       "id": "null",
       "name": "default",
       "chunks": [
