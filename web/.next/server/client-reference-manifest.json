@@ -996,6 +996,27 @@
       ],
       "async": false
     },
+    "C:\\www\\nlw\\web\\src\\app\\globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Bai_Jamjuree\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"700\",\"variable\":\"--font-bai-Jamjuree\"}],\"variableName\":\"baiJamjuree\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Roboto_Flex\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-roboto\"}],\"variableName\":\"roboto\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg": {
       "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
       "name": "*",
@@ -1131,27 +1152,6 @@
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "C:\\www\\nlw\\web\\src\\app\\globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\www\\nlw\\web\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Bai_Jamjuree\",\"arguments\":[{\"subsets\":[\"latin\"],\"weight\":\"700\",\"variable\":\"--font-bai-Jamjuree\"}],\"variableName\":\"baiJamjuree\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\www\\nlw\\web\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Roboto_Flex\",\"arguments\":[{\"subsets\":[\"latin\"],\"variable\":\"--font-roboto\"}],\"variableName\":\"roboto\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
