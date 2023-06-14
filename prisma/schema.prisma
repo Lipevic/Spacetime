@@ -10,8 +10,8 @@ datasource db {
 // uuid = Universal Unique ID 
 model User {
   id        String   @id @default(uuid())
-  githudID  Int      @unique
-  nome      String
+  githudId  Int      @unique
+  name      String
   login     String
   avatarUrl String
   Memories  Memory[]
