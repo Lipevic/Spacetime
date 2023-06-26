@@ -230,38 +230,12 @@ self.__RSC_MANIFEST={
         "async": false
       }
     },
-    "(app-client)/./src/assets/nlw-spacetime-logo.svg": {
-      "*": {
-        "id": "(sc_client)/./src/assets/nlw-spacetime-logo.svg",
-        "name": "*",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "": {
-        "id": "(sc_client)/./src/assets/nlw-spacetime-logo.svg",
-        "name": "",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      },
-      "default": {
-        "id": "(sc_client)/./src/assets/nlw-spacetime-logo.svg",
-        "name": "default",
-        "chunks": [
-          "app/page:static/chunks/app/page.js"
-        ],
-        "async": false
-      }
-    },
     "(app-client)/./node_modules/next/dist/client/image.js": {
       "*": {
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       },
@@ -269,7 +243,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       },
@@ -277,7 +251,33 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/client/image.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "default",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
         ],
         "async": false
       }
@@ -287,7 +287,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "*",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       },
@@ -295,7 +295,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       },
@@ -303,7 +303,7 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "default",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/layout:static/chunks/app/layout.js"
         ],
         "async": false
       },
@@ -311,7 +311,85 @@ self.__RSC_MANIFEST={
         "id": "(sc_client)/./node_modules/next/dist/shared/lib/head.js",
         "name": "defaultHead",
         "chunks": [
-          "app/page:static/chunks/app/page.js"
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/assets/nlw-spacetime-logo.svg": {
+      "*": {
+        "id": "(sc_client)/./src/assets/nlw-spacetime-logo.svg",
+        "name": "*",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/assets/nlw-spacetime-logo.svg",
+        "name": "",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      },
+      "default": {
+        "id": "(sc_client)/./src/assets/nlw-spacetime-logo.svg",
+        "name": "default",
+        "chunks": [
+          "app/layout:static/chunks/app/layout.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/MediaPicker.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/MediaPicker.tsx",
+        "name": "*",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/MediaPicker.tsx",
+        "name": "",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
+        ],
+        "async": false
+      },
+      "MediaPicker": {
+        "id": "(sc_client)/./src/components/MediaPicker.tsx",
+        "name": "MediaPicker",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
+        ],
+        "async": false
+      }
+    },
+    "(app-client)/./src/components/NewMemoryForm.tsx": {
+      "*": {
+        "id": "(sc_client)/./src/components/NewMemoryForm.tsx",
+        "name": "*",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
+        ],
+        "async": false
+      },
+      "": {
+        "id": "(sc_client)/./src/components/NewMemoryForm.tsx",
+        "name": "",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
+        ],
+        "async": false
+      },
+      "NewMemoryForm": {
+        "id": "(sc_client)/./src/components/NewMemoryForm.tsx",
+        "name": "NewMemoryForm",
+        "chunks": [
+          "app/memories/new/page:static/chunks/app/memories/new/page.js"
         ],
         "async": false
       }
@@ -996,35 +1074,11 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
-    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg": {
-      "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg#": {
-      "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
-      "name": "",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg#default": {
-      "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
-      "name": "default",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
     "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\image.js": {
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1032,7 +1086,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1040,7 +1094,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1048,7 +1102,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1056,7 +1110,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1064,7 +1118,55 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/client/image.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\link.js#": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\node_modules\\next\\dist\\esm\\client\\link.js#default": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "default",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
       ],
       "async": false
     },
@@ -1072,7 +1174,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1080,7 +1182,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1088,7 +1190,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1096,7 +1198,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1104,7 +1206,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1112,7 +1214,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "default",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1120,7 +1222,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1128,7 +1230,7 @@ self.__RSC_MANIFEST={
       "id": "(app-client)/./node_modules/next/dist/shared/lib/head.js",
       "name": "defaultHead",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/layout:static/chunks/app/layout.js"
       ],
       "async": false
     },
@@ -1152,6 +1254,78 @@ self.__RSC_MANIFEST={
       "chunks": [
         "static/css/app/layout.css"
       ]
+    },
+    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg": {
+      "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
+      "name": "*",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg#": {
+      "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
+      "name": "",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\src\\assets\\nlw-spacetime-logo.svg#default": {
+      "id": "(app-client)/./src/assets/nlw-spacetime-logo.svg",
+      "name": "default",
+      "chunks": [
+        "app/layout:static/chunks/app/layout.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\src\\components\\MediaPicker.tsx": {
+      "id": "(app-client)/./src/components/MediaPicker.tsx",
+      "name": "*",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\src\\components\\MediaPicker.tsx#": {
+      "id": "(app-client)/./src/components/MediaPicker.tsx",
+      "name": "",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\src\\components\\MediaPicker.tsx#MediaPicker": {
+      "id": "(app-client)/./src/components/MediaPicker.tsx",
+      "name": "MediaPicker",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\src\\components\\NewMemoryForm.tsx": {
+      "id": "(app-client)/./src/components/NewMemoryForm.tsx",
+      "name": "*",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\src\\components\\NewMemoryForm.tsx#": {
+      "id": "(app-client)/./src/components/NewMemoryForm.tsx",
+      "name": "",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
+    },
+    "C:\\www\\nlw\\web\\src\\components\\NewMemoryForm.tsx#NewMemoryForm": {
+      "id": "(app-client)/./src/components/NewMemoryForm.tsx",
+      "name": "NewMemoryForm",
+      "chunks": [
+        "app/memories/new/page:static/chunks/app/memories/new/page.js"
+      ],
+      "async": false
     }
   }
 }
