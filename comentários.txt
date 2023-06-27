@@ -1,0 +1,6 @@
+ ARQUIVO -> package.json
+    "dev": "tsx watch src/server.ts"  <- codigo
+Aqui vc ta especificando para que quando eu pedir para ele executar o "npm rum dev" exceute npx tsx 
+src/server.ts esse tsx já seria executado de forma global e ele que vai interpretar o codigo e converter
+para node... pq o node não interpreta o typescript... Adicionando o watch ele ele continuara execuntando 
+a aplicação de forma initerrupta
